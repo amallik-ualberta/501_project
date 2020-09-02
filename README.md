@@ -3,6 +3,8 @@ Sentiment Analysis of Code-Mixed Social Media
 Text (SemEval 2020 Task 9)
 Task Description : https://competitions.codalab.org/competitions/20654
 
+Detailed Methodology : https://github.com/amallik-ualberta/Sentiment-Classifier-for-code-mixed-tweets/blob/develop/report_amallik_hasnat.pdf
+
 Team Members:
     Arnob Mallik (CCID: amallik)
     Arif Hasnat (CCID: hasnat)
