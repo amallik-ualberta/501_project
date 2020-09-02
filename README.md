@@ -1,6 +1,7 @@
 # 501_project
 Sentiment Analysis of Code-Mixed Social Media
 Text (SemEval 2020 Task 9)
+Task Description : https://competitions.codalab.org/competitions/20654
 
 Team Members:
     Arnob Mallik (CCID: amallik)
